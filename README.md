@@ -2,4 +2,4 @@
 ## A JavaScript based GPA calculator for VIT Students.
 ### GitHub :@ItsSuryakumar
 
-![Screenshot](img.jpg)
+![Screenshot](/img.jpg)
