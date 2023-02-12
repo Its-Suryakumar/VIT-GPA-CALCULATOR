@@ -1,7 +1,8 @@
 
   
 body {
-  background:#33d9b2;
+  
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
   font-size: 12px;
 }
 
@@ -24,7 +25,8 @@ body, button, input {
 
 .screen {
   position: relative;
-  background: #3e3e3e;
+  background: #000000;
+  opacity: 70%;
   border-radius: 15px;
 }
 
@@ -65,10 +67,10 @@ body, button, input {
   /*flex-direction: column;*/
   justify-content: center;
   align-items: center;
-  color: #33d9b2;f;
+  color: white;
   font-size: 26px;
   text-transform: uppercase;
-  border-left: 4px solid #218c74;
+  border-left: 4px solid white;
   padding: 10px;
 }
 

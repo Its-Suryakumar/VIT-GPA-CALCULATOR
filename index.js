@@ -278,8 +278,6 @@ const calcy = () =>{
   }
   
   let gpa=(gradeScr/totalCred);
-  document.getElementById('showData').innerHTML = ` Your GPA is ${gpa} , Total Credits = ${totalCred} `
-  
-
-  
+  document.getElementById('showData').innerHTML = ` Your GPA is ${gpa.toFixed(2)} , Total Credits = ${totalCred} `
+   
 }
